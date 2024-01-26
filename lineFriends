@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Peter's Page</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #FDEDEC; /* Soft pink background */
+            color: #5C4033; /* Dark brown text color for contrast */
+            text-align: center; /* Center aligning everything */
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #A0522D; /* Brown color, similar to Brown's fur */
+        }
+        img {
+            width: 50%; /* Adjust size as needed */
+            border: 5px solid #A0522D; /* Brown border */
+            border-radius: 10px; /* Rounded corners for the image */
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1> Welcome to Line Friends :  Peter  </h1>
+
+    <img src='linefriends.png' alt='LINE Friends'/>
+
+</body>
+</html>
